@@ -183,7 +183,7 @@ html, body {
   color: black;
 }
 
-/* 🔧 עיצוב ייחודי לכפתור עריכה */
+/* עיצוב ייחודי לכפתור עריכה */
 .contact-actions .edit-btn i {
   color: #007acc;
 }
@@ -236,7 +236,7 @@ html, body {
   background-color: #555;
 }
 
-/* 🔧 הודעת רשימה ריקה */
+/* הודעת רשימה ריקה */
 .empty-message {
   text-align: center;
   font-size: 1.5rem;
@@ -258,7 +258,7 @@ html, body {
 }
 
 
-/* ===================== Responsive ===================== */
+/*  Responsive */
 
 /* Tablets and small laptops */
 @media (max-width: 768px) {
@@ -390,7 +390,7 @@ html, body {
     gap: 1rem;
   }
 
-  /* 🔍 Search input */
+  /* Search input */
   .left-controls {
     width: 100%;
     display: flex;
@@ -406,7 +406,7 @@ html, body {
     text-align: center;
   }
 
-  /* 🎯 Buttons centered with spacing */
+  /* Buttons centered with spacing */
   .right-controls {
     width: 100%;
     display: flex;
@@ -442,7 +442,7 @@ html, body {
     gap: 0.5rem;
   }
 
-  /* 📦 Popup */
+  /* Popup */
   .popup {
     width: 90%;
     max-width: 280px;
